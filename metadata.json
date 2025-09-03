@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, AI-powered task tracking application with a sleek, Spotify-inspired user interface. Users can manage their tasks and generate new task lists from high-level goals using Gemini.",
+  "requestFramePermissions": []
+}
